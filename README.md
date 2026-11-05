@@ -28,7 +28,7 @@ Laurea Magistrale in Scienze Statistiche per la Finanza · Università degli Stu
 | Variabile | Numero di famiglie con coppia sposata e figli minorenni (in migliaia) |
 | Frequenza | Annuale |
 | Periodo analizzato | 1950 – 2019 (70 osservazioni) |
-| File | `married.csv` |
+| File | `usa-households.csv` |
 
 Il dataset originale di Kaggle è stato **ridotto al periodo 1950–2019**, dove il 2019 è l'ultima osservazione disponibile.
 
